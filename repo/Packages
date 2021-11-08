@@ -1,0 +1,14 @@
+Package: com.burke.backgrounderaction13
+Name: BackgrounderAction2 for CCSupport
+Version: 0.1.4
+Architecture: iphones-arm
+Description: Control Center toggle to keep applications running in background.
+Maintainer: IrishBurke
+Author: Matt Burke highpontiffpius@outlook.com
+Section: Tweak
+Depends: com.burkester.ccsupport, mobilesubstrate
+Filename: debs/com.burkebackgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16582
+MD5sum: DAAAD051B766C498C8E6E221197A8D2D
+SHA1: 5EFD914E2DFD59F7BE6294EC1A77DBF8E6A3A7D4
+SHA256: 52205260D34CCD8AD93788AFA33FE4DCF96BB04B6027B3A9CB71B1CDB2901557
