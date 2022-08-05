@@ -6,7 +6,6 @@ Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: Files/betterccxi/com.burke.betterccxi_1.6.0_iphoneos-arm.deb
 Size: 79028
-MD5sum: 
 Description: Enhance Control Center
 Name: BetterCCXI
 Author: Burke <HighPontiffPius@outlook.com>
