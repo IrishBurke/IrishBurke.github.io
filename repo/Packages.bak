@@ -21,7 +21,7 @@ Description: Enhance Control Center
 Maintainer: IrishBurke
 Author: Matt Burke highpontiffpius@outlook.com
 Section: Tweak
-Depends: mobilesubstrate
+Depends:
 Filename: debs/com.burke.betterccxi_1.6.0_iphoneos-arm.deb
 Size: 79028
 MD5sum: c8fc47f39792a8ec97345238f2123344
