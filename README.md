@@ -22,7 +22,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 	- [Branding](#branding)
 	- [Search](#search)
 	- [Mail](#mail)
-	- [Utilities](#utilities)
+        - [Visual Studio Extensions](visual-studio-extensions)
+        - [Libraries](#libraries)
+        - [Utilities](#utilities)
 
 ## Logging
 * [SharePoint Log Viewer](https://sharepointlogviewer.codeplex.com/) - SharePoing Log Viewer is a Windows application for reading and filtering Microsoft SharePoint ULS Logs. 
