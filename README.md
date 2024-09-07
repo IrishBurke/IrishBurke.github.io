@@ -95,23 +95,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [smtp4dev](http://smtp4dev.codeplex.com/) - Windows 7/Vista/XP/2003/2010 compatible dummy SMTP server. 
 * [Smarter Mail](http://www.smartertools.com/free-editions.aspx) - A light mail server.
 
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Siavash Fathi](http://siavashf.com) has waived all copyright and related or neighboring rights to this work.
-
-
-# Awesome SharePoint! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A collection of awesome libraries, tools, frameworks, and software for SharePoint
-
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet/), [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks).
-
-Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/sergey-tihon/awesome-sharepoint/blob/master/CONTRIBUTING.md) pages first.
-
-Thanks to all [contributors](https://github.com/sergey-tihon/awesome-sharepoint/graphs/contributors), you're awesome and this wouldn't have been possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
 ## Visual Studio Extensions
 
 * [CKS: Development Tools Edition](http://visualstudiogallery.msdn.microsoft.com/cf1225b4-aa83-4282-b4c6-34feec8fc5ec) - A collection of Visual Studio templates, Server Explorer extensions and tools providing accelerated SharePoint 2010/2013 development.
