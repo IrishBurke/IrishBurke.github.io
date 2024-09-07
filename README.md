@@ -23,7 +23,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 	- [Search](#search)
 	- [Mail](#mail)
 	- [Visual Studio Extensions](visual-studio-extensions)
-        - [Libraries](#libraries)
         - [Utilities](#utilities)
         
   
