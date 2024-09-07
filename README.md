@@ -11,7 +11,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 - [Awesome SharePoint](#awesome-sharepoint)
     - [Logging](#logging)
-    - [Farm Admin](#farm-admin)
+    - [Admin](#admin)
 	- [App Development](#app-development)
 	- [Caml](#caml)
 	- [Developer Tools](#developer-tools)
@@ -22,6 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 	- [Branding](#branding)
 	- [Search](#search)
 	- [Mail](#mail)
+	- [Utilities](#utilities)
 
 ## Logging
 * [SharePoint Log Viewer](https://sharepointlogviewer.codeplex.com/) - SharePoing Log Viewer is a Windows application for reading and filtering Microsoft SharePoint ULS Logs. 
@@ -30,13 +31,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [Visual Studio Integrated Uls Viewer](https://integrateduls.codeplex.com/) - Visual Studio integrated ULS Viewer for SharePoint 2010/2013
 * [SPLIT - SharePoint Log Investigation Tool](http://split.codeplex.com/) - SharePoint Log Investigation Tool, use to easily search logs of SharePoint 2010 using a Correlation Id. 
 
-## Farm Admin 
+## Admin
 * [AutoSPInstaller](https://autospinstaller.codeplex.com/) - Automated SharePoint 2010/2013 PowerShell-based installation script.
 * [spdocgen MOSS 2007 Farm Documentation Generator](https://spdocgen.codeplex.com/) - Automatically generate SharePoint Farm Documentation in a few seconds for WSS/MOSS 2007
 * [spdocgen SP2010 Farm Documentation Generator](https://lekman.codeplex.com/releases/view/55953) - Automatically generate SharePoint Farm Documentation in a few seconds for SharePoint 2010
 * [spdocgen SP2013 Farm Documentation Generator](https://github.com/siaf/SP15DocGen) - Automatically generate SharePoint Farm Documentation in a few seconds for SharePoint 2013
 * [SP Property Bag Settings 2010](https://pbs2010.codeplex.com/) - SharePoint Property Bag offers developers to store configurations settings at different levels of the SharePoint hierarchy outside of the application itself.
 * [SPBestWarpUp](https://spbestwarmup.codeplex.com/) - Automatically loads SharePoint pages for server warm up.
+* [SharePoint 2013 and ADFS 2.0 Test with Claims Viewer Web Part](http://sharepointobservations.wordpress.com/2013/08/21/sharepoint-2013-and-adfs-2-0-test-with-claims-viewer-web-part/) - A web part that provides an easy solution to view the contents of the SAML token.
+* [SharePoint Feature Administration and Clean Up Tool](http://featureadmin.codeplex.com/) - Finds faulty FeatureDefinitions and cleanly uninstalls them.
+* [SharePoint 2013 FBA Pack](http://sharepoint2013fba.codeplex.com/) - A Forms Based authentication pack for SharePoint 2013.
+* [SPBestWarmUp](http://spbestwarmup.codeplex.com/) - A warm-up script for SharePoint pages.
+* [STSADM custom extensions](http://blog.falchionconsulting.com/index.php/category/stsadm-commands/) - Extend STSADM and PowerShell commands.
+* [Free SharePoint Monitoring Tool](http://www.manageengine.com/free-sharepoint-monitor/free-sharepoint-health-monitor-index.html) - A free SharePoint Health Monitor tool helps keep a close watch on SharePoint environment such as SharePoint Site, IIS server, MSSQL server and Host server.
 
 <!--- - SP Offline -->
 
@@ -84,12 +91,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 ## Branding
 * [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - The color palette tool provides color palette functionality for use with SharePoint designs. 
 * [Starter Master Pages for SharePoint 2013](https://startermasterpages.codeplex.com/releases/view/97062) - Starter Master Pages for SharePoint 2013 by Randy Drisgill.
-* [Starter Master Pages for SharePoint](https://startermasterpages.codeplex.com/) - Starter Master Pages for SharePoint are a clean, commented starting point for creating your own SharePoint branding. 
+* [Starter Master Pages for SharePoint](https://startermasterpages.codeplex.com/) - Starter Master Pages for SharePoint are a clean, commented starting point for creating your own SharePoint branding.
+* [Starter Master Pages for SharePoint](http://startermasterpages.codeplex.com/) - Clean Starter Master Pages for SharePoint, a clean, commented starting point for creating your own SharePoint branding. 
+* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
 
 ## Search
 * [SharePoint 2013 Search Tool](http://sp2013searchtool.codeplex.com/) - Use this tool to test out and debug search queries against the SharePoint 2013 Search REST API.
 * [SharePoint Search Service Tool](https://sharepointsearchserv.codeplex.com/) - The SharePoint Search Service Tool is a rich web service client that allows a developer to explore the scopes and managed properties of a given SharePoint Search SSP, build queries in either Keyword or SQL Syntax, submit those queries and examine the raw web service results. 
 * [SharePoint Search Explorer](http://blogs.technet.com/cfs-filesystemfile.ashx/__key/telligent-evolution-components-attachments/01-7508-00-00-03-35-01-19/SearchExplorer.zip) - Free Developer Search Tool for SharePoint 2010 Search and FAST Search for SharePoint.
+* [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - A tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
+* [FAST Search for Sharepoint 2010 Query Logger](https://fs4splogger.codeplex.com/) - The FS4SP Query Logger will make it easier for developers and IT pro's to debug user queries.
 
 ## Mail
 * [smtp4dev](http://smtp4dev.codeplex.com/) - Windows 7/Vista/XP/2003/2010 compatible dummy SMTP server. 
@@ -116,28 +127,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 * [SPCAF – SharePoint Code Analysis Framework](http://www.spcaf.com/) - A code quality tool that analyses SharePoint solutions and apps and checks JavaScript, .NET code, XML, ASPX, CSS for correctness, best practices etc. Additionally it calculates code metrics, creates artifact dependency graphs, and solution documentation.
 * [SharePoint 2010 Developer Dashboard Visualizer](http://devdashvis.codeplex.com/) -  A jQuery-based solution that extends the Developer Dashboard by plotting an interactive diagram with data from the Developer Dashboard.
 
-## Branding
-
-* [Starter Master Pages for SharePoint](http://startermasterpages.codeplex.com/) - Clean Starter Master Pages for SharePoint, a clean, commented starting point for creating your own SharePoint branding. 
-* [Color Palette Tool for Branding](http://www.microsoft.com/en-us/download/details.aspx?id=38182) - This tool provides color palette functionality for use with SharePoint designs.
-
-## Search
-
-* [SharePoint 2013 Search Query Tool](https://sp2013searchtool.codeplex.com/) - A tool for testing and debugging search queries against the SharePoint 2013 Search REST API.
-* [FAST Search for Sharepoint 2010 Query Logger](https://fs4splogger.codeplex.com/) - The FS4SP Query Logger will make it easier for developers and IT pro's to debug user queries.
-
 ## Utilities
 
 * [smtp4dev](http://smtp4dev.codeplex.com/) - A dummy SMTP server.
 * [dotPeek](http://www.jetbrains.com/decompiler/) - A free .NET Decompiler and Assembly Browser.
 * [ILSpy](http://ilspy.net/) - An open-source .NET assembly browser and decompiler, a free alternative to .NET Reflector by Red Gate.
 * [Fiddler](http://www.telerik.com/download/fiddler) - A free web debugging proxy for any browser, system or platform.
-
-## Administration
-
-* [SharePoint 2013 and ADFS 2.0 Test with Claims Viewer Web Part](http://sharepointobservations.wordpress.com/2013/08/21/sharepoint-2013-and-adfs-2-0-test-with-claims-viewer-web-part/) - A web part that provides an easy solution to view the contents of the SAML token.
-* [SharePoint Feature Administration and Clean Up Tool](http://featureadmin.codeplex.com/) - Finds faulty FeatureDefinitions and cleanly uninstalls them.
-* [SharePoint 2013 FBA Pack](http://sharepoint2013fba.codeplex.com/) - A Forms Based authentication pack for SharePoint 2013.
-* [SPBestWarmUp](http://spbestwarmup.codeplex.com/) - A warm-up script for SharePoint pages.
-* [STSADM custom extensions](http://blog.falchionconsulting.com/index.php/category/stsadm-commands/) - Extend STSADM and PowerShell commands.
-* [Free SharePoint Monitoring Tool](http://www.manageengine.com/free-sharepoint-monitor/free-sharepoint-health-monitor-index.html) - A free SharePoint Health Monitor tool helps keep a close watch on SharePoint environment such as SharePoint Site, IIS server, MSSQL server and Host server.
